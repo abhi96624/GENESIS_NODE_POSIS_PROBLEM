@@ -25,7 +25,7 @@ SUBLIME TEXT EDITOR (OR ANY OTHER ALTERNATIVE)
 
 ## Contributing
 
-Please read (https://github.com/abhi96624/GENESIS_NODE_POSIS_PROBLEM/edit/master/) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read (https://github.com/abhi96624/GENESIS_NODE_POSIS_PROBLEM) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
