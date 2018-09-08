@@ -339,6 +339,6 @@ PosistRecord:: PosistRecord(struct data d, int node_number, node* node_Id, node*
 //==================Driving function====================// 
 int main()
 {
-	 PosistRecord pr;
-
+	 PosistRecord pr(struct data d, int node_number, node* node_Id, node*ref_node,vector<node*>childrefnode,node*genesisrefnode, bool isgenesis);
+          // now call for class member function on the class object pr as desired  :)
 }
